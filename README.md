@@ -1,0 +1,1 @@
+sass scss/style.scss css/style.cssbrowser-sync start --server --files "css/*.css"
